@@ -1,6 +1,5 @@
-header {
-    
-    color:black;
+header { 
+    color: white;
     text-align: center;
     font-size: 50px;
     border: 3px solid #FFFCF2;
@@ -42,8 +41,13 @@ body {
     text-align: left;
 }
 
+ol {
+    color: white;
+}
+
 footer {
     color: black;
+    background-color: white;
     font-size: 12px;
     border: 3px solid black;
     padding-left: 5px;
